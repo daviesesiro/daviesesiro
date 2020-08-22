@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Davies Esiro, I am fullstack developer.
+- 🤓💻I eat JavaScript and PHP(laravel) for breakfast, lunch and dinner🍴🍚 
 - 🔭 I’m currently working on forum for as a school project with a cool friend
 - 🌱 I’m currently learning GraphQL with nodejs and react
 <!--
