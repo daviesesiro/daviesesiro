@@ -3,8 +3,10 @@ My name is Davies Esiro, I am fullstack developer.
 - 🤓💻I eat JavaScript and PHP(laravel) for breakfast, lunch and dinner🍴🍚 
 - 🔭 I’m currently working on forum as a school project with a cool friend
 - 🌱 I’m currently learning GraphQL with nodejs and react
-- 📫 How to reach me: (daviesesiro@gmail.com)[mailto:daviesesiro@gmail.com]
-- 📫 How to reach me: Message me on (Twitter)[https://twitter.com/ojurereoluwad]
+- 📫 How to reach me: daviesesiro@gmail.com
+- 📫 How to reach me: Message me on Twitter https://twitter.com/@ojurereoluwad
+- 📫 How to reach me: Message me on Instagram https://instagram.com/ted_opi_
+
 Tech Statck: JavaScript(React, Nodejs, Express and NestJs), GraphQL, TypeORM, Sequelize, MongoDB(Monoose) and TypeScript
 
 <!--
