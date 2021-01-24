@@ -7,7 +7,7 @@ My name is Davies Esiro, I am fullstack developer.
 - 📫 How to reach me: Message me on Twitter https://twitter.com/@ojurereoluwad
 - 📫 How to reach me: Message me on Instagram https://instagram.com/daviesesiro
 
-Tech Statck: JavaScript(React, Nodejs, Express and NestJs), GraphQL, TypeORM, Sequelize, MongoDB(Monoose) and TypeScript
+Tech Statck: JavaScript(React, Nodejs and Express), GraphQL, TypeORM, Sequelize, MongoDB(Mongoose) and TypeScript
 
 <!--
 **webcrawler124/webcrawler124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
