@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Davies Esiro, I am fullstack developer.
-- 🤓💻I eat JavaScript and PHP(laravel) for breakfast, lunch and dinner🍴🍚 
-- 🌱 I’m currently learning GraphQL with nodejs and react
+- 🤓💻I eat TypeScript and PHP(laravel) for breakfast, lunch and dinner🍴🍚 
+- 🌱 I’m currently learning about microservices
 - 📫 How to reach me: daviesesiro@gmail.com
 - 📫 How to reach me: Message me on [Twitter](https://twitter.com/@ojurereoluwad)
 - 📫 How to reach me: Message me on [Instagram](https://instagram.com/daviesesiro)
