@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Davies Esiro, I am fullstack developer.
+My name is Esiro Davies, I am fullstack developer.
 - 🤓💻I eat TypeScript and PHP(laravel) for breakfast, lunch and dinner🍴🍚 
 - 🌱 I’m currently learning about microservices
 - 📫 How to reach me: daviesesiro@gmail.com
