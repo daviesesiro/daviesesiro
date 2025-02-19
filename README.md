@@ -3,7 +3,7 @@ My name is Esiro Davies, I am fullstack developer.
 - 🤓💻I eat TypeScript and PHP(laravel) for breakfast, lunch and dinner🍴🍚 
 - 🌱 I’m currently learning about microservices
 - 📫 How to reach me: daviesesiro@gmail.com
-- 📫 How to reach me: Message me on [Twitter](https://twitter.com/@ojurereoluwad)
+- 📫 How to reach me: Message me on [Twitter](https://twitter.com/@daviesesiro)
 - 📫 How to reach me: Message me on [Instagram](https://instagram.com/daviesesiro)
 
 Tech Statck: JavaScript(React, Nodejs and Express), GraphQL, TypeORM, Sequelize, MongoDB(Mongoose) and TypeScript
